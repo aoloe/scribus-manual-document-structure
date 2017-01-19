@@ -1,0 +1,5 @@
+- master pages
+- layers
+- templates
+- scrapbook
+- sections
