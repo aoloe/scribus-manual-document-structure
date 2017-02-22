@@ -3,3 +3,9 @@
 - templates
 - scrapbook
 - sections
+- headers & footers
+- page numbers
+  - create a text frame
+  - double click on it to get into the edit mode
+  - insert > character > page number
+  - if you do that on a master page (edit > master pages) you'll get the page number on each page where the master page is applied
