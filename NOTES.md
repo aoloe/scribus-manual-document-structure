@@ -4,6 +4,11 @@
 - scrapbook
 - sections
 - headers & footers
+- guides
+  - in scribus sind hilfslinien bereits magnetisch (unter umstände muss noch die funktion im "seiten" menü aktivieren)...
+  - mit ctrl-click kann man auch flächen füllen
+  - und in der dokument eigenschaft kann man auch bestimmen, dass die hilfslinien "ganz oben" gezeichnet werden...
+  - "ausrichten und verteilen" wenn keine hilfslinien
 - page numbers
   - create a text frame
   - double click on it to get into the edit mode
